@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "addon@cossabuilds.github.io": {
+      "updates": [
+        {
+          "version": "0.5.0",
+          "update_link": "https://cossabuilds.github.io/addon-updates/xpi/orbitide-0.5.0.xpi",
+          "update_hash": "sha256:414b3470cb61020f3916e9321a98f5c3d65ddd81f2ea77cefd7a9a24a2bacb7b",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "147.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
