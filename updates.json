@@ -11,6 +11,16 @@
               "strict_min_version": "147.0"
             }
           }
+        },
+        {
+          "version": "0.5.2",
+          "update_link": "https://cossabuilds.github.io/addon-updates/xpi/orbitide-0.5.2.xpi",
+          "update_hash": "sha256:c1c9de71e473a85fcb53df07b58de049b029a422eee81a515a92868f0ceaf3a1",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "147.0"
+            }
+          }
         }
       ]
     }
